@@ -1,3 +1,5 @@
+# Ранжирование редких запросов
+
 Практика в рамках курса "Информационный поиск"
 
 https://www.kaggle.com/c/ranking-long-tail-queries-fall-2021
